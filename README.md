@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhafitman
 - 👀 I’m interested in building apps.
 - 🌱 I’m currently learning Java, Angular, JHipster
-- 💞️ I’m looking to collaborate on Android application projects.
+- 💞️ I’m looking to collaborate on Android & iphone application projects.
 - 📫 How to reach me prabhafitman@gmail.com
 
 <!---
